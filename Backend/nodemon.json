@@ -1,0 +1,18 @@
+{
+  "watch": [
+    "controllers",
+    "db",
+    "middlewares",
+    "models",
+    "routes",
+    "services",
+    "src",
+    "server.js"
+  ],
+  "ext": "js,json",
+  "ignore": [
+    "node_modules",
+    ".git"
+  ],
+  "delay": "500"
+}
